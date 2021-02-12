@@ -1,3 +1,5 @@
+#2-12-2021 Will revisit later tonight 
+
 # 2-11-2021
 
 ############### Blackjack Project #####################
